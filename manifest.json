@@ -2,7 +2,7 @@
   "name": "Consista V1",
   "short_name": "Consista",
   "description": "Build habits that stick with streak tracking and progress monitoring.",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#08090C",
